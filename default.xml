@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin"
+            fetch="https://github.com" />
+
+    <default revision="master"
+             remote="origin"/>
+
+    <project path="vi/TestRemote"
+             name="veeSivee/TestRemote.git" remote="origin" />
+
+    <project path="vi/CasCisCus"
+             name="veeSivee/CasCisCus.git" remote="origin" />
+</manifest>
